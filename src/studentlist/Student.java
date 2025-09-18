@@ -8,7 +8,7 @@ package studentlist;
 
 /**
  *
- * @author Megha Patel
+ * @author Megha Patel sep 18
  */
 public class Student {
 
